@@ -1,5 +1,4 @@
-
-<h1 align="center">Welcome you<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="">
+      -<h1 align="center">Welcome you<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="">
 <div align="center">
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+ROKEY+MD+BETTER+OPTION;🔥+The+Most+Powerful+WhatsApp+Bot;💻+developed+by+PEKSHA;🚀+ROKEY-MD+V8+Solutions;🌈+Fast+⚡+Secure+🔒+Reliable+✅" alt="Typing Animation">
@@ -9,12 +8,11 @@
 <img src="https://i.ibb.co/2m9BY0x/tourl-1764900115399.jpg" height="400" width="100%">
 
 <p align="center">
-  
-  <https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&color=5513F7&width=435&lines=ROKEY+MD+WHATSAPP+BOT" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&color=5513F7&width=435&lines=ROKEY+MD+WHATSAPP+BOT" alt="Typing SVG" /></a>
 </p>
 <p align="center">
-<a href="https://github.com/VajiraTech">l
-    <img src="https://praw.githubusercontent.com/gojo18888/Photo-video-/refs/heads/main/file_000000003a2861fd8da000a32a065a.png"  width="700px">
+<a href="https://github.com/VajiraTech">
+    <img src="https://raw.githubusercontent.com/gojo18888/Photo-video-/refs/heads/main/file_000000003a2861fd8da91a32a065a.png"  width="700px">
 </a>
 <hr>
 
@@ -90,7 +88,7 @@
 
 
 
-## GOJO MD DEVELOPER 
+## ROKEY MD DEVELOPER 
 
 Peksha rasanjana*⏩
 
