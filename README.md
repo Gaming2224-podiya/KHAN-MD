@@ -132,21 +132,3 @@ jobs:
     - name: Start application
       run: npm start
 ```
-
-|:--:|:--:|
-| [**Savithu Induwara**](https://github.com/Saviyakolla)  <br/>*Founder & Lead Developer* | [**Themi Sadas**](https://github.com/THEMISADAS2007)  <br/>*Co-Developer* |
-
----
-
-## 📄 License
-
-This project is distributed under the **GNU General Public License v3.0**.  
-**Unauthorized editing of credits or license content is strictly prohibited.**
-
----
-
-## ⚠️ Disclaimer
-
-`WhatsApp` and its logo are trademarks of **Meta Platforms, Inc.**  
-We are **not affiliated, associated, authorized, or endorsed** by Meta in any way.
-
