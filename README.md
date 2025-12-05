@@ -13,8 +13,8 @@
   https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&color=5513F7&width=435&lines=ROKEY+MD+WHATSAPP+BOT" alt="Typing SVG" /></a>
 </p>
 <p align="center">
-<a href="https://github.com/VajiraTech">
-    <img src="https://raw.githubusercontent.com/gojo18888/Photo-video-/refs/heads/main/file_000000003a2861fd8da00091a32a065a.png"  width="700px">
+<a href="https://github.com/VajiraTech">l
+    <img src="https://praw.githubusercontent.com/gojo18888/Photo-video-/refs/heads/main/file_000000003a2861fd8da000a32a065a.png"  width="700px">
 </a>
 <hr>
 
