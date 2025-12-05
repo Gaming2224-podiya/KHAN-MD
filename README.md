@@ -90,7 +90,7 @@
 
 (## ROKEY MD) DEVELOPER 
 
-Peksha rasanjana*⏩
+Peksha rasanjana / Rukshan savinda ⏩
 
 
 
