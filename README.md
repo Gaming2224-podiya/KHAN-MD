@@ -10,7 +10,7 @@
 
 <p align="center">
   
-  https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&color=5513F7&width=435&lines=ROKEY+MD+WHATSAPP+BOT" alt="Typing SVG" /></a>
+  <https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&color=5513F7&width=435&lines=ROKEY+MD+WHATSAPP+BOT" alt="Typing SVG" /></a>
 </p>
 <p align="center">
 <a href="https://github.com/VajiraTech">l
