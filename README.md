@@ -17,7 +17,7 @@
 <hr>
 
 
-## 💡 FOLLOW OUR CHANAL
+## 💡 FOLLOW OUR CHANNEL
 
 <a href="https://whatsapp.com/channel/0029VbAbD5hKmCPLakMalg3Q"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-blue" alt="📎 Join Our WhatsApp Channel" width="350"></a>
 
